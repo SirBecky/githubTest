@@ -8,7 +8,9 @@ Urška Sršen, one of the owners and Chief Creative Officer of Bellabeat, believ
 A stakeholder asked me as a junior data analyst to focus on one of Bellabeat's products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights I discovered will help guide the company's marketing strategy.
 
 ### There are 6 phases in Google Data Analytics course: The first phase is ASK.
-**1.1 Summary of the Business Task:**  Analyze data from smart device users to gain insight into how consumers are using smart devices non-Bellabeat and apply it to one of Bellabeat’s products. Then, using the insight that has been gained will help guide the company's marketing strategy.
+
+**1.1 Summary of the Business Task:**  
+Analyze data from smart device users to gain insight into how consumers are using smart devices non-Bellabeat and apply it to one of Bellabeat’s products. Then, using the insight that has been gained will help guide the company's marketing strategy.
 
 **1.2 Who is the Key stakeholders?** 
 - Urška Sršen: Co-founder and Chief Creative Officer.
@@ -16,6 +18,7 @@ A stakeholder asked me as a junior data analyst to focus on one of Bellabeat's p
 - Bellabeat marketing analytics team.
 
 ### Next, we proceed to second phase which is PREPARE.
+
 **2.1 Description of Data sources used:** 
 The dataset used in this analysis is from FitBit Fitness Tracker Data which is available and provided by one of the user "Mobius" in Kaggle platfom.
 The dataset is recommended to be use by the course provider Google Data Analytics Course.
@@ -27,6 +30,15 @@ This dataset fulfills accessibility because it is publicly accessible and open-s
 
 **2.3 Data Integrity and Verification:**
 The Sample size of thirty users for this analysis seems small when compared to the unknown demographic to be surveyed. Still, sample sizes equal to or greater than thirty are often considered sufficient for the Central Limit Theorem to hold. The genders for the survey are not specified in the dataset since Bellabeat products and services are for women, which results in sampling bias. The datasets used are not current because respondents generated them for a distributed survey via Amazon Mechanical Turk between 03.12.2016-05.12.2016. Finding alternative datasets to support the business task has proven difficult. The dataset available is the dataset we will use to carry out this business task pending the availability of datasets that have the demographics and size needed.
+
+**Does the data is ROCCC?:**
+A good data source is ROCCC which stands for Reliable, Original, Comprehensive, Current, and Cited.
+
+Reliable - LOW - Not reliable as it only has 30 respondents
+Original - LOW - Third party provider (Amazon Mechanical Turk)
+Comprehensive - MED - Parameters match most of Bellabeat's products' parameters
+Current - LOW - Data is 5 years old and is not relevant
+Cited - LOW - Data collected from third party, hence unknown
 
 **2.4 How is the data organized?:**
 
