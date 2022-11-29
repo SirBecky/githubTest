@@ -7,5 +7,6 @@ Urška Sršen, one of the owners and Chief Creative Officer of Bellabeat, believ
 
 A stakeholder asked me as a junior data analyst to focus on one of Bellabeat's products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights I discovered will help guide the company's marketing strategy.
 
-### There are 6 phases in Google Data Analytics course: The first is phase ASK.
-Sršen asks you to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. She then wants you to select one Bellabeat product to apply these insights to in your presentation. These questions will guide your analysis:
+### There are 6 phases in Google Data Analytics course: The first phase is ASK.
+**Identify the business task:**  Analyze data from smart device users to gain insight into how consumers are using smart devices non-Bellabeat and apply it to one of Bellabeat’s products. Then, using the insight that has been gained will help guide the company's marketing strategy.
+
