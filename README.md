@@ -22,10 +22,13 @@ The dataset is recommended to be use by the course provider Google Data Analytic
 
 This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits. The sample in the dataset time frame is taken between 03.12.2016-05.12.2016 which were submitted by survey respondents distributed via Amazon Mechanical Turk
 
-**2.2 Accessibility and privacy of data**
+**2.2 Accessibility and privacy of data:**
 This dataset fulfills accessibility because it is publicly accessible and open-source. Data privacy has also been fulfilled because all personal information contained in this dataset has been anonymized.
 
-**2.3 Data Integrity and Verification**
+**2.3 Data Integrity and Verification:**
 The Sample size of thirty users for this analysis seems small when compared to the unknown demographic to be surveyed. Still, sample sizes equal to or greater than thirty are often considered sufficient for the Central Limit Theorem to hold. The genders for the survey are not specified in the dataset since Bellabeat products and services are for women, which results in sampling bias. The datasets used are not current because respondents generated them for a distributed survey via Amazon Mechanical Turk between 03.12.2016-05.12.2016. Finding alternative datasets to support the business task has proven difficult. The dataset available is the dataset we will use to carry out this business task pending the availability of datasets that have the demographics and size needed.
 
-**2.4 How is the data organized?**
+**2.4 How is the data organized?:**
+
+install.packages("tidyverse")
+library(tidyverse)
