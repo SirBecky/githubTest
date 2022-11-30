@@ -39,8 +39,3 @@ Original - LOW - Third party provider (Amazon Mechanical Turk)
 Comprehensive - MED - Parameters match most of Bellabeat's products' parameters
 Current - LOW - Data is 5 years old and is not relevant
 Cited - LOW - Data collected from third party, hence unknown
-
-**2.4 How is the data organized?:**
-
-install.packages("tidyverse")
-library(tidyverse)
