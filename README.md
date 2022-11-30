@@ -42,4 +42,4 @@ Cited - LOW - Data collected from third party, hence unknown
 
 **2.4 How is the data organized?:**
 
-### Next step are the process phase and analyze phase which will be summarize in details in the relevant folder.
+### Next step are the process phase and analyze phase which will be summarize in details in the R Markdown.
